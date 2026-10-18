@@ -1,13 +1,13 @@
 <h1 align="center"> Junior Software Engineer | Python Backend & AI </h1>
 
-###  👨‍💻 About Me
+##  👨‍💻 About Me
 
-<h3 align="left"> 
+<h2 align="left"> 
 
   I'm a Computer Engineering graduate passionate about
 software development, artificial intelligence, and
 building scalable backend applications.
-</h3>
+</h2>
 <h3 align="left"> 
 I enjoy developing practical solutions using Python,
 exploring AI technologies, and continuously improving
